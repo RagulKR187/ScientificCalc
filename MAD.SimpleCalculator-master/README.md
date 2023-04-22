@@ -4,6 +4,6 @@ Inputs: 2 numbers(any data type).
 
 Components: 4 buttons - Addition Button, Subtraction Button, Multiplication Button and Division Button.
 
-Developed By: Santhosh S 200701221, CSE Dept - Rajalakshmi Engineering College.
+Developed By: RAGUL KR 200701187, CSE Dept - Rajalakshmi Engineering College.
 
 Subject: Mobile Application Development (Laboratory).
